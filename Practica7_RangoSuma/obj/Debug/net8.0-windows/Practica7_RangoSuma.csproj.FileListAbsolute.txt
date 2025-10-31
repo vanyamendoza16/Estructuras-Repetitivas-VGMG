@@ -1,0 +1,16 @@
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 2. Estructuras Repetitivas\Practica7_RangoSuma\bin\Debug\net8.0-windows\Practica7_RangoSuma.exe
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 2. Estructuras Repetitivas\Practica7_RangoSuma\bin\Debug\net8.0-windows\Practica7_RangoSuma.deps.json
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 2. Estructuras Repetitivas\Practica7_RangoSuma\bin\Debug\net8.0-windows\Practica7_RangoSuma.runtimeconfig.json
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 2. Estructuras Repetitivas\Practica7_RangoSuma\bin\Debug\net8.0-windows\Practica7_RangoSuma.dll
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 2. Estructuras Repetitivas\Practica7_RangoSuma\bin\Debug\net8.0-windows\Practica7_RangoSuma.pdb
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 2. Estructuras Repetitivas\Practica7_RangoSuma\obj\Debug\net8.0-windows\Practica7_RangoSuma.Form1.resources
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 2. Estructuras Repetitivas\Practica7_RangoSuma\obj\Debug\net8.0-windows\Practica7_RangoSuma.csproj.GenerateResource.cache
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 2. Estructuras Repetitivas\Practica7_RangoSuma\obj\Debug\net8.0-windows\Practica7_RangoSuma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 2. Estructuras Repetitivas\Practica7_RangoSuma\obj\Debug\net8.0-windows\Practica7_RangoSuma.AssemblyInfoInputs.cache
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 2. Estructuras Repetitivas\Practica7_RangoSuma\obj\Debug\net8.0-windows\Practica7_RangoSuma.AssemblyInfo.cs
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 2. Estructuras Repetitivas\Practica7_RangoSuma\obj\Debug\net8.0-windows\Practica7_RangoSuma.csproj.CoreCompileInputs.cache
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 2. Estructuras Repetitivas\Practica7_RangoSuma\obj\Debug\net8.0-windows\Practica7_RangoSuma.dll
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 2. Estructuras Repetitivas\Practica7_RangoSuma\obj\Debug\net8.0-windows\refint\Practica7_RangoSuma.dll
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 2. Estructuras Repetitivas\Practica7_RangoSuma\obj\Debug\net8.0-windows\Practica7_RangoSuma.pdb
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 2. Estructuras Repetitivas\Practica7_RangoSuma\obj\Debug\net8.0-windows\Practica7_RangoSuma.genruntimeconfig.cache
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 2. Estructuras Repetitivas\Practica7_RangoSuma\obj\Debug\net8.0-windows\ref\Practica7_RangoSuma.dll

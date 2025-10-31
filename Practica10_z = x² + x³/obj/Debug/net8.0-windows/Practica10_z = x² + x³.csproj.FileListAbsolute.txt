@@ -1,0 +1,16 @@
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 2. Estructuras Repetitivas\Practica10_z = x² + x³\bin\Debug\net8.0-windows\Practica10_z = x² + x³.exe
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 2. Estructuras Repetitivas\Practica10_z = x² + x³\bin\Debug\net8.0-windows\Practica10_z = x² + x³.deps.json
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 2. Estructuras Repetitivas\Practica10_z = x² + x³\bin\Debug\net8.0-windows\Practica10_z = x² + x³.runtimeconfig.json
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 2. Estructuras Repetitivas\Practica10_z = x² + x³\bin\Debug\net8.0-windows\Practica10_z = x² + x³.dll
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 2. Estructuras Repetitivas\Practica10_z = x² + x³\bin\Debug\net8.0-windows\Practica10_z = x² + x³.pdb
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 2. Estructuras Repetitivas\Practica10_z = x² + x³\obj\Debug\net8.0-windows\Practica10_z___x____x_.Form1.resources
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 2. Estructuras Repetitivas\Practica10_z = x² + x³\obj\Debug\net8.0-windows\Practica10_z = x² + x³.csproj.GenerateResource.cache
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 2. Estructuras Repetitivas\Practica10_z = x² + x³\obj\Debug\net8.0-windows\Practica10_z = x² + x³.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 2. Estructuras Repetitivas\Practica10_z = x² + x³\obj\Debug\net8.0-windows\Practica10_z = x² + x³.AssemblyInfoInputs.cache
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 2. Estructuras Repetitivas\Practica10_z = x² + x³\obj\Debug\net8.0-windows\Practica10_z = x² + x³.AssemblyInfo.cs
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 2. Estructuras Repetitivas\Practica10_z = x² + x³\obj\Debug\net8.0-windows\Practica10_z = x² + x³.csproj.CoreCompileInputs.cache
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 2. Estructuras Repetitivas\Practica10_z = x² + x³\obj\Debug\net8.0-windows\Practica10_z = x² + x³.dll
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 2. Estructuras Repetitivas\Practica10_z = x² + x³\obj\Debug\net8.0-windows\refint\Practica10_z = x² + x³.dll
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 2. Estructuras Repetitivas\Practica10_z = x² + x³\obj\Debug\net8.0-windows\Practica10_z = x² + x³.pdb
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 2. Estructuras Repetitivas\Practica10_z = x² + x³\obj\Debug\net8.0-windows\Practica10_z = x² + x³.genruntimeconfig.cache
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 2. Estructuras Repetitivas\Practica10_z = x² + x³\obj\Debug\net8.0-windows\ref\Practica10_z = x² + x³.dll
