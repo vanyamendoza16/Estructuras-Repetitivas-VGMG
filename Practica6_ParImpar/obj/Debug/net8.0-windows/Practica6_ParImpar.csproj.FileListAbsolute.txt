@@ -1,0 +1,16 @@
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 2. Estructuras Repetitivas\Practica6_ParImpar\bin\Debug\net8.0-windows\Practica6_ParImpar.exe
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 2. Estructuras Repetitivas\Practica6_ParImpar\bin\Debug\net8.0-windows\Practica6_ParImpar.deps.json
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 2. Estructuras Repetitivas\Practica6_ParImpar\bin\Debug\net8.0-windows\Practica6_ParImpar.runtimeconfig.json
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 2. Estructuras Repetitivas\Practica6_ParImpar\bin\Debug\net8.0-windows\Practica6_ParImpar.dll
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 2. Estructuras Repetitivas\Practica6_ParImpar\bin\Debug\net8.0-windows\Practica6_ParImpar.pdb
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 2. Estructuras Repetitivas\Practica6_ParImpar\obj\Debug\net8.0-windows\Practica6_ParImpar.Form1.resources
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 2. Estructuras Repetitivas\Practica6_ParImpar\obj\Debug\net8.0-windows\Practica6_ParImpar.csproj.GenerateResource.cache
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 2. Estructuras Repetitivas\Practica6_ParImpar\obj\Debug\net8.0-windows\Practica6_ParImpar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 2. Estructuras Repetitivas\Practica6_ParImpar\obj\Debug\net8.0-windows\Practica6_ParImpar.AssemblyInfoInputs.cache
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 2. Estructuras Repetitivas\Practica6_ParImpar\obj\Debug\net8.0-windows\Practica6_ParImpar.AssemblyInfo.cs
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 2. Estructuras Repetitivas\Practica6_ParImpar\obj\Debug\net8.0-windows\Practica6_ParImpar.csproj.CoreCompileInputs.cache
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 2. Estructuras Repetitivas\Practica6_ParImpar\obj\Debug\net8.0-windows\Practica6_ParImpar.dll
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 2. Estructuras Repetitivas\Practica6_ParImpar\obj\Debug\net8.0-windows\refint\Practica6_ParImpar.dll
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 2. Estructuras Repetitivas\Practica6_ParImpar\obj\Debug\net8.0-windows\Practica6_ParImpar.pdb
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 2. Estructuras Repetitivas\Practica6_ParImpar\obj\Debug\net8.0-windows\Practica6_ParImpar.genruntimeconfig.cache
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 2. Estructuras Repetitivas\Practica6_ParImpar\obj\Debug\net8.0-windows\ref\Practica6_ParImpar.dll
