@@ -1,0 +1,16 @@
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 2. Estructuras Repetitivas\Practica2_TablaMultiplicar\bin\Debug\net8.0-windows\Practica2_TablaMultiplicar.exe
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 2. Estructuras Repetitivas\Practica2_TablaMultiplicar\bin\Debug\net8.0-windows\Practica2_TablaMultiplicar.deps.json
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 2. Estructuras Repetitivas\Practica2_TablaMultiplicar\bin\Debug\net8.0-windows\Practica2_TablaMultiplicar.runtimeconfig.json
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 2. Estructuras Repetitivas\Practica2_TablaMultiplicar\bin\Debug\net8.0-windows\Practica2_TablaMultiplicar.dll
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 2. Estructuras Repetitivas\Practica2_TablaMultiplicar\bin\Debug\net8.0-windows\Practica2_TablaMultiplicar.pdb
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 2. Estructuras Repetitivas\Practica2_TablaMultiplicar\obj\Debug\net8.0-windows\Practica2_TablaMultiplicar.Form1.resources
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 2. Estructuras Repetitivas\Practica2_TablaMultiplicar\obj\Debug\net8.0-windows\Practica2_TablaMultiplicar.csproj.GenerateResource.cache
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 2. Estructuras Repetitivas\Practica2_TablaMultiplicar\obj\Debug\net8.0-windows\Practica2_TablaMultiplicar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 2. Estructuras Repetitivas\Practica2_TablaMultiplicar\obj\Debug\net8.0-windows\Practica2_TablaMultiplicar.AssemblyInfoInputs.cache
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 2. Estructuras Repetitivas\Practica2_TablaMultiplicar\obj\Debug\net8.0-windows\Practica2_TablaMultiplicar.AssemblyInfo.cs
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 2. Estructuras Repetitivas\Practica2_TablaMultiplicar\obj\Debug\net8.0-windows\Practica2_TablaMultiplicar.csproj.CoreCompileInputs.cache
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 2. Estructuras Repetitivas\Practica2_TablaMultiplicar\obj\Debug\net8.0-windows\Practica2_TablaMultiplicar.dll
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 2. Estructuras Repetitivas\Practica2_TablaMultiplicar\obj\Debug\net8.0-windows\refint\Practica2_TablaMultiplicar.dll
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 2. Estructuras Repetitivas\Practica2_TablaMultiplicar\obj\Debug\net8.0-windows\Practica2_TablaMultiplicar.pdb
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 2. Estructuras Repetitivas\Practica2_TablaMultiplicar\obj\Debug\net8.0-windows\Practica2_TablaMultiplicar.genruntimeconfig.cache
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 2. Estructuras Repetitivas\Practica2_TablaMultiplicar\obj\Debug\net8.0-windows\ref\Practica2_TablaMultiplicar.dll

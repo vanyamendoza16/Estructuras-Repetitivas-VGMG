@@ -1,0 +1,16 @@
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 2. Estructuras Repetitivas\Practica1_DoWhile_0a10\bin\Debug\net8.0-windows\Practica1_DoWhile_0a10.exe
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 2. Estructuras Repetitivas\Practica1_DoWhile_0a10\bin\Debug\net8.0-windows\Practica1_DoWhile_0a10.deps.json
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 2. Estructuras Repetitivas\Practica1_DoWhile_0a10\bin\Debug\net8.0-windows\Practica1_DoWhile_0a10.runtimeconfig.json
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 2. Estructuras Repetitivas\Practica1_DoWhile_0a10\bin\Debug\net8.0-windows\Practica1_DoWhile_0a10.dll
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 2. Estructuras Repetitivas\Practica1_DoWhile_0a10\bin\Debug\net8.0-windows\Practica1_DoWhile_0a10.pdb
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 2. Estructuras Repetitivas\Practica1_DoWhile_0a10\obj\Debug\net8.0-windows\Practica1_DoWhile_0a10.Form1.resources
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 2. Estructuras Repetitivas\Practica1_DoWhile_0a10\obj\Debug\net8.0-windows\Practica1_DoWhile_0a10.csproj.GenerateResource.cache
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 2. Estructuras Repetitivas\Practica1_DoWhile_0a10\obj\Debug\net8.0-windows\Practica1_DoWhile_0a10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 2. Estructuras Repetitivas\Practica1_DoWhile_0a10\obj\Debug\net8.0-windows\Practica1_DoWhile_0a10.AssemblyInfoInputs.cache
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 2. Estructuras Repetitivas\Practica1_DoWhile_0a10\obj\Debug\net8.0-windows\Practica1_DoWhile_0a10.AssemblyInfo.cs
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 2. Estructuras Repetitivas\Practica1_DoWhile_0a10\obj\Debug\net8.0-windows\Practica1_DoWhile_0a10.csproj.CoreCompileInputs.cache
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 2. Estructuras Repetitivas\Practica1_DoWhile_0a10\obj\Debug\net8.0-windows\Practica1_DoWhile_0a10.dll
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 2. Estructuras Repetitivas\Practica1_DoWhile_0a10\obj\Debug\net8.0-windows\refint\Practica1_DoWhile_0a10.dll
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 2. Estructuras Repetitivas\Practica1_DoWhile_0a10\obj\Debug\net8.0-windows\Practica1_DoWhile_0a10.pdb
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 2. Estructuras Repetitivas\Practica1_DoWhile_0a10\obj\Debug\net8.0-windows\Practica1_DoWhile_0a10.genruntimeconfig.cache
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 2. Estructuras Repetitivas\Practica1_DoWhile_0a10\obj\Debug\net8.0-windows\ref\Practica1_DoWhile_0a10.dll
