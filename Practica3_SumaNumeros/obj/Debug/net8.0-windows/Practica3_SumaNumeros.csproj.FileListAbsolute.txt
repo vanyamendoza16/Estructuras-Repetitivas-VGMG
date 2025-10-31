@@ -1,0 +1,16 @@
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 2. Estructuras Repetitivas\Practica3_SumaNumeros\bin\Debug\net8.0-windows\Practica3_SumaNumeros.exe
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 2. Estructuras Repetitivas\Practica3_SumaNumeros\bin\Debug\net8.0-windows\Practica3_SumaNumeros.deps.json
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 2. Estructuras Repetitivas\Practica3_SumaNumeros\bin\Debug\net8.0-windows\Practica3_SumaNumeros.runtimeconfig.json
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 2. Estructuras Repetitivas\Practica3_SumaNumeros\bin\Debug\net8.0-windows\Practica3_SumaNumeros.dll
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 2. Estructuras Repetitivas\Practica3_SumaNumeros\bin\Debug\net8.0-windows\Practica3_SumaNumeros.pdb
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 2. Estructuras Repetitivas\Practica3_SumaNumeros\obj\Debug\net8.0-windows\Practica3_SumaNumeros.Form1.resources
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 2. Estructuras Repetitivas\Practica3_SumaNumeros\obj\Debug\net8.0-windows\Practica3_SumaNumeros.csproj.GenerateResource.cache
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 2. Estructuras Repetitivas\Practica3_SumaNumeros\obj\Debug\net8.0-windows\Practica3_SumaNumeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 2. Estructuras Repetitivas\Practica3_SumaNumeros\obj\Debug\net8.0-windows\Practica3_SumaNumeros.AssemblyInfoInputs.cache
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 2. Estructuras Repetitivas\Practica3_SumaNumeros\obj\Debug\net8.0-windows\Practica3_SumaNumeros.AssemblyInfo.cs
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 2. Estructuras Repetitivas\Practica3_SumaNumeros\obj\Debug\net8.0-windows\Practica3_SumaNumeros.csproj.CoreCompileInputs.cache
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 2. Estructuras Repetitivas\Practica3_SumaNumeros\obj\Debug\net8.0-windows\Practica3_SumaNumeros.dll
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 2. Estructuras Repetitivas\Practica3_SumaNumeros\obj\Debug\net8.0-windows\refint\Practica3_SumaNumeros.dll
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 2. Estructuras Repetitivas\Practica3_SumaNumeros\obj\Debug\net8.0-windows\Practica3_SumaNumeros.pdb
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 2. Estructuras Repetitivas\Practica3_SumaNumeros\obj\Debug\net8.0-windows\Practica3_SumaNumeros.genruntimeconfig.cache
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 2. Estructuras Repetitivas\Practica3_SumaNumeros\obj\Debug\net8.0-windows\ref\Practica3_SumaNumeros.dll
