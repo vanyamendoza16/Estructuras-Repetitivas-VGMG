@@ -1,0 +1,16 @@
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 2. Estructuras Repetitivas\Practica11_Ecuacion3Ciclos\bin\Debug\net8.0-windows\Practica11_Ecuacion3Ciclos.exe
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 2. Estructuras Repetitivas\Practica11_Ecuacion3Ciclos\bin\Debug\net8.0-windows\Practica11_Ecuacion3Ciclos.deps.json
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 2. Estructuras Repetitivas\Practica11_Ecuacion3Ciclos\bin\Debug\net8.0-windows\Practica11_Ecuacion3Ciclos.runtimeconfig.json
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 2. Estructuras Repetitivas\Practica11_Ecuacion3Ciclos\bin\Debug\net8.0-windows\Practica11_Ecuacion3Ciclos.dll
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 2. Estructuras Repetitivas\Practica11_Ecuacion3Ciclos\bin\Debug\net8.0-windows\Practica11_Ecuacion3Ciclos.pdb
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 2. Estructuras Repetitivas\Practica11_Ecuacion3Ciclos\obj\Debug\net8.0-windows\Practica11_Ecuacion3Ciclos.Form1.resources
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 2. Estructuras Repetitivas\Practica11_Ecuacion3Ciclos\obj\Debug\net8.0-windows\Practica11_Ecuacion3Ciclos.csproj.GenerateResource.cache
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 2. Estructuras Repetitivas\Practica11_Ecuacion3Ciclos\obj\Debug\net8.0-windows\Practica11_Ecuacion3Ciclos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 2. Estructuras Repetitivas\Practica11_Ecuacion3Ciclos\obj\Debug\net8.0-windows\Practica11_Ecuacion3Ciclos.AssemblyInfoInputs.cache
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 2. Estructuras Repetitivas\Practica11_Ecuacion3Ciclos\obj\Debug\net8.0-windows\Practica11_Ecuacion3Ciclos.AssemblyInfo.cs
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 2. Estructuras Repetitivas\Practica11_Ecuacion3Ciclos\obj\Debug\net8.0-windows\Practica11_Ecuacion3Ciclos.csproj.CoreCompileInputs.cache
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 2. Estructuras Repetitivas\Practica11_Ecuacion3Ciclos\obj\Debug\net8.0-windows\Practica11_Ecuacion3Ciclos.dll
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 2. Estructuras Repetitivas\Practica11_Ecuacion3Ciclos\obj\Debug\net8.0-windows\refint\Practica11_Ecuacion3Ciclos.dll
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 2. Estructuras Repetitivas\Practica11_Ecuacion3Ciclos\obj\Debug\net8.0-windows\Practica11_Ecuacion3Ciclos.pdb
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 2. Estructuras Repetitivas\Practica11_Ecuacion3Ciclos\obj\Debug\net8.0-windows\Practica11_Ecuacion3Ciclos.genruntimeconfig.cache
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 2. Estructuras Repetitivas\Practica11_Ecuacion3Ciclos\obj\Debug\net8.0-windows\ref\Practica11_Ecuacion3Ciclos.dll
