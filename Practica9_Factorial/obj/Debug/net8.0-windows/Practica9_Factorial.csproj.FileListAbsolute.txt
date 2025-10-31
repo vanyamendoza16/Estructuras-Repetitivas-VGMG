@@ -1,0 +1,16 @@
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 2. Estructuras Repetitivas\Practica9_Factorial\bin\Debug\net8.0-windows\Practica9_Factorial.exe
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 2. Estructuras Repetitivas\Practica9_Factorial\bin\Debug\net8.0-windows\Practica9_Factorial.deps.json
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 2. Estructuras Repetitivas\Practica9_Factorial\bin\Debug\net8.0-windows\Practica9_Factorial.runtimeconfig.json
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 2. Estructuras Repetitivas\Practica9_Factorial\bin\Debug\net8.0-windows\Practica9_Factorial.dll
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 2. Estructuras Repetitivas\Practica9_Factorial\bin\Debug\net8.0-windows\Practica9_Factorial.pdb
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 2. Estructuras Repetitivas\Practica9_Factorial\obj\Debug\net8.0-windows\Practica9_Factorial.Form1.resources
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 2. Estructuras Repetitivas\Practica9_Factorial\obj\Debug\net8.0-windows\Practica9_Factorial.csproj.GenerateResource.cache
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 2. Estructuras Repetitivas\Practica9_Factorial\obj\Debug\net8.0-windows\Practica9_Factorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 2. Estructuras Repetitivas\Practica9_Factorial\obj\Debug\net8.0-windows\Practica9_Factorial.AssemblyInfoInputs.cache
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 2. Estructuras Repetitivas\Practica9_Factorial\obj\Debug\net8.0-windows\Practica9_Factorial.AssemblyInfo.cs
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 2. Estructuras Repetitivas\Practica9_Factorial\obj\Debug\net8.0-windows\Practica9_Factorial.csproj.CoreCompileInputs.cache
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 2. Estructuras Repetitivas\Practica9_Factorial\obj\Debug\net8.0-windows\Practica9_Factorial.dll
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 2. Estructuras Repetitivas\Practica9_Factorial\obj\Debug\net8.0-windows\refint\Practica9_Factorial.dll
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 2. Estructuras Repetitivas\Practica9_Factorial\obj\Debug\net8.0-windows\Practica9_Factorial.pdb
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 2. Estructuras Repetitivas\Practica9_Factorial\obj\Debug\net8.0-windows\Practica9_Factorial.genruntimeconfig.cache
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 2. Estructuras Repetitivas\Practica9_Factorial\obj\Debug\net8.0-windows\ref\Practica9_Factorial.dll

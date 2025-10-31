@@ -1,0 +1,16 @@
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 2. Estructuras Repetitivas\Practica8_For_1a5\bin\Debug\net8.0-windows\Practica8_For_1a5.exe
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 2. Estructuras Repetitivas\Practica8_For_1a5\bin\Debug\net8.0-windows\Practica8_For_1a5.deps.json
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 2. Estructuras Repetitivas\Practica8_For_1a5\bin\Debug\net8.0-windows\Practica8_For_1a5.runtimeconfig.json
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 2. Estructuras Repetitivas\Practica8_For_1a5\bin\Debug\net8.0-windows\Practica8_For_1a5.dll
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 2. Estructuras Repetitivas\Practica8_For_1a5\bin\Debug\net8.0-windows\Practica8_For_1a5.pdb
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 2. Estructuras Repetitivas\Practica8_For_1a5\obj\Debug\net8.0-windows\Practica8_For_1a5.Form1.resources
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 2. Estructuras Repetitivas\Practica8_For_1a5\obj\Debug\net8.0-windows\Practica8_For_1a5.csproj.GenerateResource.cache
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 2. Estructuras Repetitivas\Practica8_For_1a5\obj\Debug\net8.0-windows\Practica8_For_1a5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 2. Estructuras Repetitivas\Practica8_For_1a5\obj\Debug\net8.0-windows\Practica8_For_1a5.AssemblyInfoInputs.cache
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 2. Estructuras Repetitivas\Practica8_For_1a5\obj\Debug\net8.0-windows\Practica8_For_1a5.AssemblyInfo.cs
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 2. Estructuras Repetitivas\Practica8_For_1a5\obj\Debug\net8.0-windows\Practica8_For_1a5.csproj.CoreCompileInputs.cache
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 2. Estructuras Repetitivas\Practica8_For_1a5\obj\Debug\net8.0-windows\Practica8_For_1a5.dll
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 2. Estructuras Repetitivas\Practica8_For_1a5\obj\Debug\net8.0-windows\refint\Practica8_For_1a5.dll
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 2. Estructuras Repetitivas\Practica8_For_1a5\obj\Debug\net8.0-windows\Practica8_For_1a5.pdb
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 2. Estructuras Repetitivas\Practica8_For_1a5\obj\Debug\net8.0-windows\Practica8_For_1a5.genruntimeconfig.cache
+C:\Users\Soporte\Desktop\Unidad 3, Práctica 2. Estructuras Repetitivas\Practica8_For_1a5\obj\Debug\net8.0-windows\ref\Practica8_For_1a5.dll
